@@ -1,0 +1,528 @@
+
+
+
+* {
+        margin: 0px;
+        padding: 0;
+        /* box-sizing: border-box; */
+        font-family: sans-serif;
+}
+
+.boqer{
+        max-width: 1440px;
+        height: 6200px;
+        margin: 0px auto;
+        background-color: #000000;
+        padding-top: 30px;
+}
+.dad {
+        width: 100%;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;   
+-webkit-box-align: center;   
+    -ms-flex-align: center;   
+        align-items: center;
+}
+
+.son1 {
+        margin-left: 150px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+
+}
+
+.s {
+        width: 20px;
+        height: 20px;
+        margin-left: 37px;
+}
+
+.a {
+        color: #FFFFFF;
+        margin-left: 13px;
+        font-size: 16px;
+        margin-top: 5px;
+}
+
+.b {
+        color: #FFFFFF;
+        margin-left: 361px;
+        font-size: 16px;
+        cursor: pointer;
+}
+
+.b:hover {
+        color: red;
+}
+
+.d {
+        font-size: 16px;
+        cursor: pointer;
+        margin-left: 63px;
+        color: #FFFFFF;
+}
+
+.d:hover {
+        color: red;
+}
+
+.e {
+        font-size: 16px;
+        cursor: pointer;
+        margin-left: 63px;
+        color: #FFFFFF;
+}
+
+.e:hover {
+        color: red;
+}
+
+.f {
+        color: white;
+        background-color: #A92A1D;
+        width: 111px;
+        height: 50px;
+        border: 1px solid transparent;
+        margin-left: 40px;
+        margin-top: -10px;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+cursor: pointer;
+}
+
+.f:hover {
+        background-color: green;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+}
+
+.son2 {
+        position: relative;
+        height: 850px;
+        margin-top: 20px;
+
+}
+
+.gym {
+        width: 1440px;
+        position: relative;
+}
+
+.red {
+        color: white;
+        position: relative;
+        bottom: 600px;
+        left: 299px;
+        font-size: 60px;
+}
+.utf {
+        width: 150px;
+        height: 50px;
+        position: relative;
+        bottom: 560px;
+        color: white;
+        background-color: #A92A1D;
+        border: 1px solid transparent;
+        left: 299px;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+
+}
+.utf:hover {
+        background-color: black;
+        cursor: pointer;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+}
+
+.tr {
+        position: relative;
+        bottom: 545px;
+        left: 320px;
+        cursor: pointer;
+}
+.hr {
+        width: 132px;
+        color: red;
+        height: 1px;
+        position: relative;
+        bottom: 850px;
+        left: 100px;
+        cursor: pointer;
+}
+.lor {
+        position: relative;
+        bottom: 815px;
+        
+        left: 1400px;
+        cursor: pointer;
+
+}
+.lo {
+        position: relative;
+        bottom: 751px;
+        left: 1380px;
+        cursor: pointer;
+}
+.l {
+        position: relative;
+        bottom: 683px;
+        left: 1350px;
+        cursor: pointer;
+}
+.rel {
+        color: #FFF;
+        font-family: 'fnam';
+
+        font-size: 48px;
+     margin-left: 570px;
+        margin-top: 155px;
+        display: block;
+}
+.rr{
+        margin-top: 20px;
+        color: white;
+     margin-left: 465px;
+
+}
+.bor{
+        margin-left: 70px;
+        margin-top: 10px;
+}
+.rote {
+        margin-left: 50px;
+}
+
+.sum {
+        height: 800px;
+        margin-top: 145px;
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+}
+.so {
+        top: 65px;
+        position: relative;
+        width: 280px;
+        height: 551px;
+
+}
+.asus {
+        position: relative;
+        width: 290px;
+        height: 551px;
+}
+.sn {
+        width: 290px;
+        height: 551px;
+}
+.lolp {
+        color: white;
+        font-size: 36px;
+        margin-left: 157px;
+        margin-top: 116px;
+}
+.son3 {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+}
+.kk {
+        margin-left: 217px;
+        margin-top: 134px;
+}
+.lorem {
+        margin-left: 14px;
+        color: white;
+        font-size: 18px;
+        margin-top: 147px;
+}
+.son4 {
+        margin-top: 170px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        position: relative;
+
+
+}
+.er {
+        color: #FFF;
+        font-size: 36px;
+        margin-left: 82px;
+        margin-top: 211px;
+}
+.o1 {
+        color: #FFF;
+        margin-top: 24px;
+        font-size: 24px;
+        margin-bottom: 15px;
+}
+.uli {
+        font-size: 18px;
+        margin-top: 15px;
+        color: gray;
+}
+.img{
+        margin-left: 950px;
+        position: relative;
+        bottom: -70px;
+}
+.le{
+        margin-top: 290px;
+        width: 450px;
+}
+.son5{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+
+}
+.ali{
+        width: 437px;
+        height: 500px;
+        margin-left: 48px;
+}
+.welcom{
+        margin-left: 175px;
+        margin-top: 39px;
+  
+}
+.pop{
+        color:#FFFFFFBF;
+        margin-left: 152px;
+        margin-top: 22px;
+}
+.ki{
+        margin-left: -10px;
+}
+.li{
+        margin-left: 10px;
+}
+.kes{
+        width: 437px;
+        height: 500px;
+        margin-left: 48px;
+        margin-top: 220px;
+
+}
+.son6{
+        width: 1600px;
+        height: 1042px;
+        margin-top: 20px;
+        position: relative;
+}
+.eg{
+        position: relative;
+width: 1440px;
+        height: 1042px;
+}
+.cor{
+        color: #FFFFFFBF;
+        font-size: 36px;
+        font-family: 'fnam';
+        margin-right: 10px;
+        position: relative;
+       bottom: 600px;
+       left: 544px;
+       border-bottom: 200px;
+}
+.gol{
+        position: relative;
+        color: #FFFFFFBF;
+        /* left:462px ; */
+        bottom: 580px;
+        
+}
+.cog{
+        position: relative;
+       left: 569px;
+       right: 300px;
+       bottom:550px;
+  
+
+}
+.loogorifm{
+        width: 402px;
+        border: 1px solid white;
+        background-color: transparent;
+        height: 60px;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        color: white;
+        font-size: 20px;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+}
+.loogorifm:hover{
+        border: 1px solid red;
+}
+.but{
+        position: relative;
+        width: 402px;
+        /* left: 569px; */
+      /* bottom: 500px; */
+      top: 90px;
+      left: -410px;
+        height: 60px;
+        border: 1px solid transparent;
+        font-size: 18px;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+        cursor: pointer;
+        background-color: white;
+        font-size: 20px;
+
+}
+@font-face {
+        font-family: 'fnam';
+        src: url('../Montserrat-ExtraBoldItalic.ttf');
+       
+}
+
+.but:hover{
+        background-color: red;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+}
+.son7{
+        width: 1600px;
+        height: 562px;
+        position: relative;
+}
+.loh{
+        position: relative;
+        left: 150px;
+        top: 148px;
+}
+.lof{
+        position: relative;
+        color: #FFFFFFBF;
+        font-size: 18px;
+        left: 150px;
+        top: 166px;
+}
+.hoji{
+        position: relative;
+        color: #FFFFFFBF;
+        left: 592px;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+
+        top: 66px;
+        font-size: 24px;
+}
+.hoji:hover{
+        color: #A92A1D;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+        cursor: pointer;
+}
+.hoj{
+        position: relative;
+        color: #FFFFFFBF;
+        left: 905px;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+
+        top: 35px;
+        font-size: 24px;
+}
+.hoj:hover{
+        color: #A92A1D;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+        cursor: pointer;
+}
+.ho{
+        position: relative;
+        color: #FFFFFFBF;
+        font-size: 24px;
+        left: 1212px;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+        top: 18px;
+}
+.ho:hover{
+        color: #A92A1D;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+        cursor: pointer;
+}
+.retro{
+        list-style: none;
+        position: relative;
+        left: 592px;
+        width: 81px;
+        height: 168px; 
+        top: 45px;
+        color: #FFFFFFBF;
+       
+
+}
+.liuy{
+        color: #FFFFFFBF;
+        cursor: pointer;
+        font-size: 18px;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+
+}
+.liuy:hover{
+        color: red;
+        -webkit-transition: 1s;
+        -o-transition: 1s;
+        transition: 1s;
+
+}
+.klas{
+        list-style: none;
+        color: #FFFFFFBF;
+        position: relative;
+        left: 905px;
+        top: -130px;
+}
+.robot{
+        position: relative;
+        left: 1212px;
+        top: -304px;
+       
+}
+.robo{
+        position: relative;
+        left: 1215px;
+        top: -304px;
+}
+.rob{
+        position: relative;
+        left: 1218px;
+        top: -304px;
+}
+.oxir{
+        color: white;
+        position: relative;
+        left: 611px;
+        top: -107px;
+        cursor: pointer;
+}
+.oxi{
+        color: red;
+}
